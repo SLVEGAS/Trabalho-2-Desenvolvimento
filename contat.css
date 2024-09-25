@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+    background-color: rgb(196, 219, 243);
+}
+
+
+h1{
+    font-size: 42px;
+    
+}
+
+h2{
+    margin-top: 20px;
+    
+}
+
+
+ul{
+    margin-top: 40px;
+    padding: 2%;
+}
+
+
+li{
+    list-style: none;
+    font-size: 24px;
+}
+
+
+#insta{
+    height: 25px;
+    
+}
+
+#linkedin{
+    height: 25px;
+
+}
+
+#email{
+    height: 25px;
+}
+
+#github{
+    height: 25px;
+}
+
+#whatsapp{
+    height: 25px;
+}
+
+#facebook{
+    height: 25px;
+}

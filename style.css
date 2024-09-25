@@ -1,0 +1,115 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(55, 53, 53);
+    list-style: none;
+    text-decoration: none;
+}
+
+header{
+   
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+
+    
+}
+
+nav{
+    width: 60%;
+}
+
+ul{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-around;
+
+}
+
+li{
+    margin-top: 10px;
+    list-style: none;
+    color: #fff;
+    display: flex;
+    cursor: pointer;
+    font-size: 24px;
+    transition: .5s;
+
+
+}
+
+li:hover{
+    color: #468bc3;
+    animation: animacao;
+    animation-duration: 5s;
+    position: static;
+}
+
+main{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+    
+
+
+
+.photo{
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+img{
+    width: 500px;
+    border-radius: 50%;
+    border: #468bc3 10px solid;
+}
+
+.name{
+    margin: 200px 0px  0px 200px;
+    color: #468bc3;
+    font-size: 24px;
+}
+
+  
+.profission{
+    margin: 30px 0px  0px 200px;
+    color: #fff;
+    font-size: 20px;
+}
+
+.sobre_mim{
+    width: 60%;
+    margin: 30px 0px  0px 200px;
+    color: #fff;
+    display: flex;
+    text-align: justify;
+    font-size: 24px;
+    margin-bottom: 60px;
+
+}
+    
+
+
+    
+    
+    
+    
+    
+
+   
+   
+    
+    
+
+
+
+
+
